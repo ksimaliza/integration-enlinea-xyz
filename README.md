@@ -10,4 +10,7 @@ Se necesita una solución en linea que permita pasar los clientes de la empresa 
 
 Desarrolle una solución tipo prueba de concepto, que permita realizar un escenarios que simule el ambiente antes descrito, utilizando un framework de integración asi como un patrón de integración que permita transmitir la información de los clientes.
 
+![Diagrama sin título](https://user-images.githubusercontent.com/12319705/229381706-1bae8b1b-5e79-4b18-8ddf-b330a6901813.jpg)
+
+
 
